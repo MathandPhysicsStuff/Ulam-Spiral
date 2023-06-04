@@ -1,0 +1,11 @@
+
+WIDTH = 680
+HEIGHT = 680
+
+BLACK = (0, 0, 0)
+DARK_GRAY_BLUE = (8, 8, 16)
+BLUE = (0, 0, 192)
+DARK_BLUE = (0, 0, 30)
+RED = (255, 0, 0)
+
+FPS = 120
